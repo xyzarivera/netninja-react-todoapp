@@ -2,6 +2,8 @@
 
 <https://www.youtube.com/watch?v=3qk6yQWKVoQ&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=23>
 
+![alt text][todos.png]
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
